@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  # Schedule updates (daily)
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: ""
+          config_timezone: UTC
+          
+          # This enables the Isometric Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
