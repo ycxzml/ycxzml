@@ -1,7 +1,7 @@
 # 📟 console.log("Hello, World!");
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Undergrad+Student;Agentic+AI+Enthusiast;Building+Autonomous+Assistants;Quick+Learner.+Anime+Lover." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#00c700&center=true&vCenter=true&width=435&lines=Undergrad+Student;Agentic+AI+Enthusiast;Building+Autonomous+Assistants;Quick+Learner." alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ I am an undergraduate student fascinated by the intersection of **AI Agents** an
 
 **`Languages & Frameworks`**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![OpenAI](https://img.shields.io/badge/Agentic_AI-00FF00?style=for-the-badge&logo=openai&logoColor=black)
+![OpenAI](https://img.shields.io/badge/Agentic_AI-#00c700?style=for-the-badge&logo=openai&logoColor=black)
 
 **`Installing Next...` (Learning Path)**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
@@ -39,9 +39,9 @@ I am an undergraduate student fascinated by the intersection of **AI Agents** an
 ### 📡 Connection Ports
 Ready to talk about Agents, Cloud, or Anime? 
 
-[![Email](https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=icloud&logoColor=black)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/your-profile)
-[![Website](https://img.shields.io/badge/Website-00FF00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://your-website.com)
+[![Email](https://img.shields.io/badge/Email-#00c700?style=for-the-badge&logo=icloud&logoColor=black)](mailto:nickkswrites@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-#00c700?style=for-the-badge&logo=linkedin&logoColor=black)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nikhil-sivakumar-b21a48344/))
+[![Website](https://img.shields.io/badge/Website-#00c700?style=for-the-badge&logo=googlechrome&logoColor=black)]([lifeolemons.vercel.app](https://lifeolemons.vercel.app/))
 
 ---
 
