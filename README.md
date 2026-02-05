@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🟢 TERMINAL_SYSTEM: ycxzml
-
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=%24+whoami+--status+active;%24+exec+agentic_ai_orchestration;%24+status+learning_cloud_and_docker;%24+hobby+--watch+anime" alt="Typing SVG" />
 
 ---
@@ -10,7 +8,7 @@
 | :--- | :--- |
 | 🎓 **Undergrad Student** | [🌐 Personal Website](https://lifeolemons.vercel.app/) |
 | 🤖 **Focus:** Agentic AI Systems | [🔗 LinkedIn Profile](https://www.linkedin.com/in/nikhil-sivakumar-b21a48344/) |
-| ⚡ **Vibe:** Quick to adapt | [📧 Reach Out](mailto:nickkswrites@gmail.com) |
+| ⚡ **Vibes:** Quick to adapt | [📧 Reach Out](mailto:nickkswrites@gmail.com) |
 
 </div>
 
@@ -20,7 +18,7 @@
 
 ---
 
-### 🛠️ Runtime Environment (Stack)
+### 📦 Stack
 
 <div align="center">
 
@@ -30,6 +28,6 @@
 | ![LangChain](https://img.shields.io/badge/Agentic_AI-2EA043?style=for-the-badge&logo=openai&logoColor=white) | ![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![CCNA](https://img.shields.io/badge/CCNA-Learning-3FB950?style=for-the-badge) |
 
 </div>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+### 🗣️ Stats
+![](./profile-3d-contrib/profile-night-green.svg)
 
