@@ -28,7 +28,7 @@
 | ![LangChain](https://img.shields.io/badge/Agentic_AI-2EA043?style=for-the-badge&logo=openai&logoColor=white) | ![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![CCNA](https://img.shields.io/badge/CCNA-Learning-3FB950?style=for-the-badge) |
 
 </div>
-### 🗣️ Analytics & Logs
+---
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Graph" width="100%" />
 </p>
