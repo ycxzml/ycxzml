@@ -10,13 +10,13 @@
 | :--- | :--- |
 | 🎓 **Undergrad Student** | [🌐 Personal Website](https://lifeolemons.vercel.app/) |
 | 🤖 **Focus:** Agentic AI Systems | [🔗 LinkedIn Profile](https://www.linkedin.com/in/nikhil-sivakumar-b21a48344/) |
-| ⚡ **Vibe:** Quick to adapt | [📧 Reach Out](mailto:your-email@example.com) |
+| ⚡ **Vibe:** Quick to adapt | [📧 Reach Out](mailto:nickkswrites@gmail.com) |
 
 </div>
 
-### 📡 [STDOUT] // Current Mission
+### 📡 Current Mission
 > Building an **Autonomous Personal Assistant** 🤖. 
-> I'm skipping the LLM training rabbit hole to focus on **Orchestration**—creating agents that handle my reminders, schedule my life, and never forget a birthday. If it can be automated with Python, I'm building it.
+> I'm skipping the LLM training rabbit hole to focus on **Orchestration**. If it can be automated with Python, I'm building it ✌️.
 
 ---
 
@@ -31,32 +31,7 @@
 
 </div>
 
----
-
-### 📉 System Analytics (Performance Metrics)
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ycxzml&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=3fb950&text_color=ffffff&icon_color=2ea043&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycxzml&layout=compact&theme=github_dark&bg_color=0d1117&title_color=3fb950&text_color=ffffff&icon_color=2ea043&hide_border=false" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ycxzml&theme=github_dark&background=0d1117&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
-</p>
-
----
-
-### 🍵 // Off-Duty Logs
-* **Watching:** Most likely a Shonen or a high-stakes Seinen.
-* **Exploring:** Constant hardware/software tinkering.
-* **Philosophy:** "If it's new, I'm on it."
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ycxzml/ycxzml/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
 
----
-
-<p align="center">
-  <code>LAST_UPDATED: 2024_SYSTEM_READY</code>
-</p>
