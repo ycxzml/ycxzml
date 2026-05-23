@@ -6,7 +6,7 @@
 
 | 📂 **Status Report** | 📊 **Quick Access** |
 | :--- | :--- |
-| 🎓 **Undergrad Student** | [🌐 Personal Website](https://lifeolemons.vercel.app/) |
+| 🎓 **Undergrad Student** | [🌐 Personal Website](https://projectzerou.com/) |
 | 🤖 **Focus:** Agentic AI Systems | [🔗 LinkedIn Profile](https://www.linkedin.com/in/nikhil-sivakumar-b21a48344/) |
 | ⚡ **Vibes:** Quick to adapt | [📧 Reach Out](mailto:nickkswrites@gmail.com) |
 
